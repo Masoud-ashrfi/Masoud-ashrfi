@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning React<br>
+🌱 I'm a passionate web developer with experience in creating responsive and interactive web applications.
+My focus is on crafting user-friendly interfaces with a strong emphasis on accessibility and performance. I enjoy working with JavaScript, HTML, and CSS to build engaging and functional projects.<br>
 
 
 ## 🌐 Socials:
