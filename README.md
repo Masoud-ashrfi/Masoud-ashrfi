@@ -1,37 +1,24 @@
-Hi there, I'm Masoud Ashrafi 👋
+# 💫 About Me:
+🌱 I’m currently learning React<br>
 
-About Me
-I'm a passionate web developer with experience in creating responsive and interactive web applications.
-My focus is on crafting user-friendly interfaces with a strong emphasis on accessibility and performance. I enjoy working with JavaScript, HTML, and CSS to build engaging and functional projects.
 
-Skills
-- Languages: JavaScript, HTML, CSS
-- Frameworks & Libraries: Tailwind CSS, React (if applicable)
-- Tools: Git, VS Code, Chrome DevTools
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/masoud-ashrafi) 
 
-Recent Projects
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Masoud-ashrfi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Masoud-ashrfi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Masoud-ashrfi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-FAQ Toggle Project
-- Description: An interactive FAQ section where users can toggle answers by clicking on questions or
-  using keyboard navigation. The project is fully responsive and includes
-  polished hover and focus states for a better user experience.
-- Technologies Used: HTML, CSS, JavaScript
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Masoud-ashrfi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-What I’m Proud Of
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-- Successfully implementing dynamic content interaction with accessibility features.
-- Ensuring a responsive design that adapts well across different devices.
-- Creating a user-friendly interface with clear interactive feedback.
+---
+[![](https://visitcount.itsvg.in/api?id=Masoud-ashrfi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-What I’d Like Help With
-
-- Advanced accessibility features (e.g., ARIA roles and attributes)
-- Performance optimization, especially for mobile devices
-- Cross-browser compatibility issues
-- Enhancing user experience and adding new features
-
- How to Reach Me
-
-- Email: (mailto:saidmasoudashrafi@gmail.com)
-- LinkedIn:(https://www.linkedin.com/in/masoud-ashrafi/)
-- GitHub: (https://github.com/Masoud-ashrfi)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
